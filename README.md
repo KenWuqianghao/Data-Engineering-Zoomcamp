@@ -1,2 +1,2 @@
 # Data-Engineering-Zoomcamp
-Repo for code and homeworks written for data engineering zoomcamp
+Code and homework written for the data engineering zoomcamp.
